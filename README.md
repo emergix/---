@@ -10,6 +10,8 @@ This article explores one of the most profound frontiers in physics: the possibi
 
 📄 **Read the paper**: [пространства и времени.pdf (Russe)](./Russian/пространства%20и%20времени_Ru.pdf)
 
+📄 **Read the paper**: [пространства и времени.pdf (Francais)](./French/пространства%20и%20времени_Fr.pdf)
+
 ---
 
 ## ✨ Key Themes
