@@ -8,7 +8,7 @@
 
 This article explores one of the most profound frontiers in physics: the possibility that **space and time are not fundamental**, but **emergent phenomena** arising from deeper quantum realities. Author **Adam Becker** surveys several cutting-edge theories, including *string theory* and *loop quantum gravity*, that aim to reconcile *general relativity* with *quantum mechanics*.
 
-📄 **Read the paper**: [пространства и времени.pdf (Russe)](./Russian/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8.pdf)
+📄 **Read the paper**: [пространства и времени.pdf (Russe)](./Russian/пространства%20и%20времени_Ru.pdf)
 
 ---
 
