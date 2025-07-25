@@ -12,7 +12,7 @@ This article explores one of the most profound frontiers in physics: the possibi
 
 📄 **Read the paper**: [пространства и времени.pdf (Francais)](./French/пространства%20и%20времени_Fr.pdf)
 
-📄 **Read the Document**: [Espace-Temps Quantique.docx.pdf (Francais)](./Docs/Espace-Temps Quantique.pdf)
+📄 **Read the Document**: [Espace-Temps Quantique.docx.pdf (Francais)](./Docs/Espace-Temps%20Quantique.pdf)
 
 ---
 
